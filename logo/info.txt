@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Corben-Regular
+font link: https://fonts.google.com/specimen/Corben
+font author: Vernon Adams
+font author site: http://sansoxygen.com/
+Slogan Font: Fanwood Text.otf
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#C06D69","icon-gradient-1":"#D2B05C","font":"#000000","slogan":"#141414"}
+      
